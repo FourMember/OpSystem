@@ -2,47 +2,36 @@ package util;
 
 public class FileOperation {
 	
-	//½¨Á¢ÎÄ¼ş
+	//å»ºç«‹æ–‡ä»¶
 	public static void create_file(){
 	}
 	
-	//´ò¿ªÎÄ¼ş
+	//æ‰“å¼€æ–‡ä»¶
 	public static void open_file(){
 	}
 	
-	//¶ÁÎÄ¼ş
+	//è¯»æ–‡ä»¶
 	public static void read_file(){
 	}
 	
-	//Ğ´ÎÄ¼ş
+	//å†™æ–‡ä»¶
 	public static void write_file(){
 	}
 	
-	//¹Ø±ÕÎÄ¼ş
+	//å…³é—­æ–‡ä»¶
 	public static void close_file(){
 	}
 	
-	//É¾³ıÎÄ¼ş
+	//åˆ é™¤æ–‡ä»¶
 	public static void delete_file(){
 	}
 	
-	//ÏÔÊ¾ÎÄ¼şÄÚÈİ
+	//æ˜¾ç¤ºæ–‡ä»¶å†…å®¹
 	public static void typefile(){
 	}
 	
-	//¸Ä±äÎÄ¼şÊôĞÔ
+	//æ”¹å˜æ–‡ä»¶å±æ€§
 	public static void change(){
 	}
 	
-	//½¨Á¢Ä¿Â¼
-	public static void md(){
-	}
-	
-	//ÏÔÊ¾Ä¿Â¼ÄÚÈİ
-	public static void dir(){
-	}
-	
-	//É¾³ı¿ÕÄ¿Â¼
-	public static void rd(){
-	}
 }

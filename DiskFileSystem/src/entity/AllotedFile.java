@@ -1,6 +1,6 @@
 package entity;
 
-//¸ÃÀàµÄ¶ÔÏó±íÊ¾ÒÑ·ÖÅäÎÄ¼ş£¬ÒÑ·ÖÅäÎÄ¼ş±íÓÃList<AlloteFile>·ºĞÍÀ´ÊµÏÖ
+//å·²åˆ†é…æ–‡ä»¶ç±»ï¼Œå®ä¾‹åŒ–è¯¥ç±»ï¼Œç”¨List<AlloteFile>æ¥è¡¨ç¤ºå·²åˆ†é…æ–‡ä»¶è¡¨
 public class AllotedFile {
 	private String FilePath;      
 	private char Attribute;

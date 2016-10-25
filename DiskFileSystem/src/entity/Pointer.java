@@ -1,9 +1,9 @@
 package entity;
 
-//Ö¸ÕëÀà£¬ÓÃÀ´ÊµÀı»¯ÒÑ·ÖÅäÎÄ¼ş±íÖĞµÄ¶ÁÖ¸ÕëºÍĞ´Ö¸Õë
+//æŒ‡é’ˆç±»ï¼Œç”¨æ¥å®ç°å·²åˆ†é…æ–‡ä»¶è¡¨ä¸­çš„è¯»æŒ‡é’ˆã€å†™æŒ‡é’ˆ
 public class Pointer {
-	private int BlockNum;          //¿éºÅ
-	private int BlockAddress;	   //¿éÄÚµØÖ·£¬Ö¸µÄÊÇÅÌ¿éÄÚµÄµÚ¼¸¸ö×Ö½Ú
+	private int BlockNum;          //ç‰©ç†å—å·
+	private int BlockAddress;	   //å—å†…åœ°å€ï¼ŒæŒ‡çš„æ˜¯ç¬¬å‡ ä¸ªå­—èŠ‚
 	public int getBlockNum() {
 		return BlockNum;
 	}
